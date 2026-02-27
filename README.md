@@ -10,7 +10,7 @@ I am a B.Tech student specializing in Artificial Intelligence and Data Science (
 * **IoT & Robotics:** Integrating hardware with intelligence, Smart Plant Care System Web app.
 
 ## 🌐 Socials:
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=Leetcode&logoColor=black)](https://leetcode.com/u/parshant1290)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=Leetcode&logoColor=black)](https://leetcode.com/u/parshant1290/)
 [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/parshant1290)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parshantkumar1290)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parshantkumar12902005@gmail.com)
