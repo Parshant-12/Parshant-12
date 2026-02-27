@@ -10,7 +10,13 @@ I am a B.Tech student specializing in Artificial Intelligence and Data Science (
 * **IoT & Robotics:** Integrating hardware with intelligence, like my award-winning Smart Plant Care System.
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yX4RSZXC) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parshant1290) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parshantkumar1290) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Parshant1290) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@edicraftant) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parshantkumar12902005@gmail.com) 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=Leetcode&logoColor=black)](https://leetcode.com/u/parshant1290) 
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/parshant1290)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parshantkumar1290)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parshantkumar12902005@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yX4RSZXC) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parshant1290) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@edicraftant) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Parshant1290) 
 
 # 💻 Tech Stack:
 
@@ -30,6 +36,8 @@ I am a B.Tech student specializing in Artificial Intelligence and Data Science (
 ![](https://github-readme-stats.vercel.app/api?username=Parshant-12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Parshant-12&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parshant-12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![DSA Progress](https://geps.dev/progress/65?dangerColor=ff4b1f&warningColor=ff9068&successColor=1fddff)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First%20solve%20the%20problem.%20Then%20write%20the%20code.&author=John%20Johnson)
 
