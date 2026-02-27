@@ -62,6 +62,7 @@ I am a B.Tech student specializing in Artificial Intelligence and Data Science (
 
 # 🐍 Contribution Snake
 ![snake gif](https://github.com/Parshant-12/Parshant-12/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Parshant-12/Parshant-12/blob/output/github-snake-dark.svg)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First%20solve%20the%20problem.%20Then%20write%20the%20code.&author=John%20Johnson)
 
