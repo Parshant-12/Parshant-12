@@ -61,8 +61,11 @@ I am a B.Tech student specializing in Artificial Intelligence and Data Science (
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parshant-12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🐍 Contribution Snake
-![snake gif](https://github.com/Parshant-12/Parshant-12/blob/output/github-contribution-grid-snake.gif)
-![snake gif](https://github.com/Parshant-12/Parshant-12/blob/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parshant-12/Parshant-12/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Parshant-12/Parshant-12/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Parshant-12/Parshant-12/output/github-snake.svg">
+</picture>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First%20solve%20the%20problem.%20Then%20write%20the%20code.&author=John%20Johnson)
 
