@@ -56,9 +56,9 @@ I am a B.Tech student specializing in Artificial Intelligence and Data Science (
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Parshant-12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Parshant-12&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parshant-12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Parshant-12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&v=1)<br/>
+![](https://streak-stats.demolab.com/?user=Parshant-12&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parshant-12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&v=1)
 
 # 🐍 Contribution Snake
 <picture>
