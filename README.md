@@ -1,7 +1,7 @@
 # 💫 About Me:
 Aspiring AI & Data Science Engineer | Full-Stack Developer | Competitive Programmer
 
-I am a B.Tech student specializing in Artificial Intelligence and Data Science (2027 Batch) at Chandigarh Engineering College, Landran. I am passionate about building intelligent systems and scalable web applications, currently maintaining a 8 CGPA.
+I am a B.Tech student specializing in Artificial Intelligence and Data Science (2027 Batch) at Chandigarh Engineering College, Landran. I am passionate about building intelligent systems and scalable web applications, currently maintaining a 8.4 CGPA.
 
 🚀 **What I’m Working On**
 * **DSA & Problem Solving:** Actively solving Striver's A-Z DSA sheet (Graphs, DP, Stacks/Queues).
